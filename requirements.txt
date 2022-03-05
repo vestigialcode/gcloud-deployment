@@ -1,0 +1,9 @@
+libffi-dev
+python-dev 
+python3-dev
+pytest>=4.6.11
+responses>=0.12.1
+pytest-cov>=2.10.1
+flake8>=3.8.4
+mock>=3.0.5
+kiteconnect
